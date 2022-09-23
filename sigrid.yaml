@@ -1,0 +1,15 @@
+component_depth: 1
+languages:
+  - Java
+  - Javascript
+
+dependencychecker:
+  blacklist:
+  - "NONE"
+
+architecture:
+  enabled: true
+  history: none
+
+thirdpartyfindings:
+  enabled: true
