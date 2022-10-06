@@ -4,12 +4,12 @@ languages:
   - Javascript
 
 dependencychecker:
-  blacklist:
-  - "NONE"
+  enabled: true
+  blacklist: []
+  transitive: true
 
 architecture:
   enabled: true
-  history: none
 
 thirdpartyfindings:
   enabled: true
