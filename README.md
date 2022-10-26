@@ -1,4 +1,4 @@
-Assignments for Sigrid training 2022
+Assignments for Sigrid training 2022 
 ==========
 This repository is part of the Sigrid training.<br />
 You will need access to Sigrid to complete this training.<br />
