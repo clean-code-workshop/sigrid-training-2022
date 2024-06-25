@@ -33,7 +33,7 @@ Training preparation
 Congratulations, your repository will be analysed by Sigrid and will appear soon in the dashboard.<br />
 Visit https://sigrid-says.com/sigridworkshop and log in with your Sigrid account.
 
-If you don't have a Sigrid account yet, please ask your teacher to create one for you.
+If you don't have a Sigrid account yet, please ask your teacher to create one for you
 
 -----------
 
